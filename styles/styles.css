@@ -1,5 +1,5 @@
 p {
-  color: red;
+  color: white;
 }
 
 li {
@@ -33,7 +33,7 @@ h1 {
   margin: 0; 
   padding: 20px 0;
   color: #00539f;
-  text-shadow: 10px 10px 1px black;
+  text-shadow: 3px 3px 1px black;
 
 }
 
